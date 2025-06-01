@@ -20,3 +20,4 @@ https://en.wikipedia.org/wiki/Page_Size_Extension
 - https://en.wikipedia.org/wiki/Memory_hierarchy
 - https://en.wikipedia.org/wiki/Computer_data_storage#Hierarchy_of_storage
 - https://en.wikipedia.org/wiki/Segmentation_fault
+- https://en.wikipedia.org/wiki/Protected_mode

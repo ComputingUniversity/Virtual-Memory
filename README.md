@@ -8,3 +8,4 @@
 
 # Relation:
 - https://en.wikipedia.org/wiki/Address_space
+- https://en.wikipedia.org/wiki/Computer_data_storage#Hierarchy_of_storage

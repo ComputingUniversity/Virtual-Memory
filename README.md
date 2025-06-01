@@ -5,6 +5,7 @@
 - https://en.wikipedia.org/wiki/Memory_paging
 - https://en.wikipedia.org/wiki/X86_memory_segmentation
 - https://en.wikipedia.org/wiki/Memory_virtualization
+- https://en.wikipedia.org/wiki/Page_(computer_memory)
 
 # Relation:
 - https://en.wikipedia.org/wiki/Address_space

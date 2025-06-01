@@ -8,6 +8,13 @@
 - https://en.wikipedia.org/wiki/Page_(computer_memory)
 - https://en.wikipedia.org/wiki/Page_table
 
+## Page Size
+https://en.wikipedia.org/wiki/Page_Size_Extension
+
+### relation:
+- https://www.google.com/search?q=linux+hugepages
+- https://www.netdata.cloud/blog/understanding-huge-pages/
+
 # Relation:
 - https://en.wikipedia.org/wiki/Address_space
 - https://en.wikipedia.org/wiki/Memory_hierarchy
